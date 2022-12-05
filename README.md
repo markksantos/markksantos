@@ -2,9 +2,9 @@
 - 👀 I’m interested in technology and video editing.
 - 🌱 I’m currently learning how to operate a SaaS video editing platform.
 - 💞️ I’m looking to collaborate with video editors, developers, entrepreneurs and creators.
-- 📫 How to reach me:
-hello@markksantos.com
-contact@markstudioshub.com
+- 📫 Reach me here:
+hello@markksantos.com or
+contact@markstudioshub.com or
 markstudioshub.com
 
 
