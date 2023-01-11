@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @markksantos
 - 👀 I’m interested in technology and video editing.
-- 🌱 I’m currently learning how to operate a SaaS video editing platform.
+- 🌱 I’m currently learning how to make apps.
 - 💞️ I’m looking to collaborate with video editors, developers, entrepreneurs and creators.
 - 📫 Reach me here:
 hello@markksantos.com or
