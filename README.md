@@ -7,7 +7,7 @@
 Building tools and services that solve real problems.
 
 [![Website](https://img.shields.io/badge/Website-markstudios.com-4A90E2?style=for-the-badge)](https://markstudios.com)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@markstudios.com)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mark@markstudios.com)
 
 </div>
 
@@ -43,10 +43,6 @@ Building tools and services that solve real problems.
 - **[LegalPair](https://github.com/markksantos/LegalPair)** — AI-powered legal document platform for couples
 - **[rocket-money-exporter](https://github.com/markksantos/rocket-money-exporter)** — Export Rocket Money data as Markdown
 - **[receiptlog](https://github.com/markksantos/receiptlog)** — Receipt tracking and organization
-
-### 🏡 Real Estate
-- **[Phil Walsh](https://github.com/markksantos/Phil-Walsh)** — Real estate agent portfolio site
-- **[virginia-center-app](https://github.com/markksantos/virginia-center-app)** — Virginia real estate center application
 
 ### 🛠️ macOS Utilities
 - **[tilemac](https://github.com/markksantos/tilemac)** — Powerful window tiling manager for macOS
@@ -97,12 +93,19 @@ Building tools and services that solve real problems.
 ## 💻 Tech Stack
 
 **Languages:** Swift, TypeScript, JavaScript, Python, Go
+
 **Frontend:** React, Next.js, SwiftUI, Tailwind CSS, Framer Motion
+
 **Backend:** Node.js, Express, FastAPI, Supabase
+
 **AI/ML:** OpenAI, Anthropic, Google AI, Hugging Face, LangChain
+
 **Mobile:** iOS (Swift, SwiftUI)
+
 **macOS:** AppKit, SwiftUI, System Extensions, Audio Unit Extensions
+
 **Databases:** PostgreSQL, SQLite, ChromaDB, Drizzle ORM
+
 **Tools:** Vite, XcodeGen, Docker, FFmpeg, Tesseract
 
 ---
@@ -110,8 +113,8 @@ Building tools and services that solve real problems.
 ## 📫 Get In Touch
 
 - 🌐 Website: [markstudios.com](https://markstudios.com)
-- 💼 LinkedIn: Connect with me
-- 📧 Email: Available on my website
+- 💼 LinkedIn: [linkedin.com](https://linkedin.com/in/markksantos)
+- 📧 Email: [mark@markstudios.com](mailto:mark@markstudios.com)
 
 ---
 
