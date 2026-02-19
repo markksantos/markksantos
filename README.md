@@ -28,6 +28,8 @@ Building tools and services that solve real problems.
 - **[onboardkit](https://github.com/markksantos/onboardkit)** — Client onboarding platform
 - **[BriefBuilder](https://github.com/markksantos/BriefBuilder)** — Creative brief generator
 - **[Freelance-Platform](https://github.com/markksantos/Freelance-Platform)** — Full-stack freelance marketplace
+- **[project-hub](https://github.com/markksantos/project-hub)** — Local project dashboard that auto-discovers dev projects from your filesystem
+- **[codesearch](https://github.com/markksantos/codesearch)** — Full-stack code search tool with React frontend and Express backend
 
 ### 🤖 AI & Automation
 - **[boardroom-ai](https://github.com/markksantos/boardroom-ai)** — Multi-agent AI debate platform
@@ -45,6 +47,8 @@ Building tools and services that solve real problems.
 - **[receiptlog](https://github.com/markksantos/receiptlog)** — Receipt tracking and organization
 
 ### 🛠️ macOS Utilities
+- **[CommandCenter](https://github.com/markksantos/CommandCenter)** — Modular power-user utility replacing Alfred, Rectangle, iStat Menus, and Paste
+- **[GitPulse](https://github.com/markksantos/GitPulse)** — Menu bar app that monitors Git repos with status, branches, and quick actions
 - **[tilemac](https://github.com/markksantos/tilemac)** — Powerful window tiling manager for macOS
 - **[DesktopRecord](https://github.com/markksantos/DesktopRecord)** — Screen capture app with OCR search
 - **[watchdog](https://github.com/markksantos/watchdog)** — Webcam monitoring app with motion detection
@@ -65,18 +69,27 @@ Building tools and services that solve real problems.
 
 ### 🌐 Web & Portfolio
 - **[markksantos.com](https://github.com/markksantos/markksantos.com)** — Personal portfolio website
+- **[markstudioshub](https://github.com/markksantos/markstudioshub)** — Mark Studios central hub with client/editor/admin portals
 - **[mark-studios-landing-page](https://github.com/markksantos/mark-studios-landing-page)** — Mark Studios landing page
 - **[markstudios-new-website-made-by-claude](https://github.com/markksantos/markstudios-new-website-made-by-claude)** — Service showcase website
 - **[devlaunch-site](https://github.com/markksantos/devlaunch-site)** — DevLaunch marketing site
 - **[Blog](https://github.com/markksantos/Blog)** — Minimal personal blog
 
 ### 🎯 Freelance & Fiverr Tools
+- **[tampermonkey-scripts](https://github.com/markksantos/tampermonkey-scripts)** — Fiverr automation suite with 10+ userscripts for sellers
+- **[mark-studios-intake](https://github.com/markksantos/mark-studios-intake)** — Multi-step client intake form with instant quote calculator
+- **[mark-studios-va-interview](https://github.com/markksantos/mark-studios-va-interview)** — AI-powered interview chatbot for VA candidate screening
+- **[mark-studios-sop-quiz](https://github.com/markksantos/mark-studios-sop-quiz)** — Password-protected SOP training quiz for inbox managers
+- **[HTML-Editor-Contract-Welcome-Docs](https://github.com/markksantos/HTML-Editor-Contract-Welcome-Docs)** — Editor contracts, welcome documents, and onboarding resources
 - **[Fiverr AI Assistant](https://github.com/markksantos/Fiverr-AI-Assistant)** — AI-powered Fiverr workflow assistant
 - **[Mark Studios Extension 2023](https://github.com/markksantos/Mark-Studios-Extension-2023)** — Chrome extension for Fiverr sellers
 - **[markstudios-fiverr-tampermonkey-scripts](https://github.com/markksantos/markstudios-fiverr-tampermonkey-scripts)** — Tampermonkey automation scripts
 - **[Tamper Monkey Scripts](https://github.com/markksantos/Tamper-Monkey-Scripts)** — Collection of userscripts
 
 ### 🔬 Experiments & Prototypes
+- **[macos-null](https://github.com/markksantos/macos-null)** — Faithful macOS Sequoia desktop clone in a single HTML file
+- **[art_gallery](https://github.com/markksantos/art_gallery)** — Interactive terminal art gallery with 6 generative animations
+- **[gravity-sandbox](https://github.com/markksantos/gravity-sandbox)** — Interactive N-body gravity simulation with real-time physics
 - **[apex-os](https://github.com/markksantos/apex-os)** — Experimental operating system interface
 - **[apex-sovereignty-command](https://github.com/markksantos/apex-sovereignty-command)** — Wealth management command center
 - **[apex-sovereign-pathway-1](https://github.com/markksantos/apex-sovereign-pathway-1)** — Full-stack boilerplate
