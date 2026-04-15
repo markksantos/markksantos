@@ -111,7 +111,6 @@ Building tools and services that solve real problems.
 - **[markstudios-new-website-made-by-claude](https://github.com/markksantos/markstudios-new-website-made-by-claude)** — Service showcase website
 - **[devlaunch-site](https://github.com/markksantos/devlaunch-site)** — DevLaunch marketing site
 - **[nosleeplab](https://github.com/markksantos/nosleeplab)** — NoSleepLab — portfolio site for the macOS utility studio
-- **[omegla.com](https://github.com/markksantos/omegla.com)** — Random video chat with smart matching, friends, and group rooms
 - **[Blog](https://github.com/markksantos/Blog)** — Minimal personal blog
 
 ### 🎯 Freelance & Fiverr Tools
@@ -126,6 +125,9 @@ Building tools and services that solve real problems.
 - **[Mark Studios Extension 2023](https://github.com/markksantos/Mark-Studios-Extension-2023)** — Chrome extension for Fiverr sellers
 - **[markstudios-fiverr-tampermonkey-scripts](https://github.com/markksantos/markstudios-fiverr-tampermonkey-scripts)** — Tampermonkey automation scripts
 - **[Tamper Monkey Scripts](https://github.com/markksantos/Tamper-Monkey-Scripts)** — Collection of userscripts
+
+### 🌍 Social & Communication
+- **[omegla.com](https://github.com/markksantos/omegla.com)** — Random video chat with smart matching, friends, and group rooms
 
 ### 🔬 Experiments & Prototypes
 - **[macos-null](https://github.com/markksantos/macos-null)** — Faithful macOS Sequoia desktop clone in a single HTML file
