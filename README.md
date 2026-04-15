@@ -16,6 +16,7 @@ Building tools and services that solve real problems.
 ## 🚀 Featured Projects
 
 ### 🎨 Creative & Media Tools
+- **[movie-picker](https://github.com/markksantos/movie-picker)** — Personalized movie and TV show recommendations powered by your taste profile
 - **[ai-youtube-thumbnail-generator](https://github.com/markksantos/ai-youtube-thumbnail-generator)** — AI-powered thumbnail generator for YouTube creators
 - **[ThumbnailRank](https://github.com/markksantos/ThumbnailRank)** — Analyze and rank YouTube thumbnail effectiveness
 - **[upscalr](https://github.com/markksantos/upscalr)** — AI image upscaling tool for macOS using RealESRGAN
