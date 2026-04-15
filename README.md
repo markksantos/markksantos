@@ -25,6 +25,7 @@ Building tools and services that solve real problems.
 - **[proofframe](https://github.com/markksantos/proofframe)** `private` — OCR-powered spell checker for burned-in video/image text
 - **[sounddeck](https://github.com/markksantos/sounddeck)** `private` — Virtual audio mixer and soundboard for macOS
 - **[FootageCalculator](https://github.com/markksantos/FootageCalculator)** `public` — Scan a folder and instantly total your video footage duration
+- **[HookCut](https://github.com/markksantos/HookCut)** `private` — AI-powered podcast/video highlight finder that exports NLE-ready timelines
 - **[SwipeClean](https://github.com/markksantos/SwipeClean)** `private` — Tinder for your camera roll — swipe right to keep, left to delete
 
 ### 🌐 Chrome Extensions
@@ -90,7 +91,6 @@ Building tools and services that solve real problems.
 - **[ExtensionManager](https://github.com/markksantos/ExtensionManager)** `private` — macOS extension browser/manager
 - **[ExtensionTracker](https://github.com/markksantos/ExtensionTracker)** `private` — System extension monitoring tool
 - **[TextBold](https://github.com/markksantos/TextBold)** `private` — Rich text editor for macOS
-- **[HookCut](https://github.com/markksantos/HookCut)** `private` — Keyboard shortcut utility
 
 ### 🔒 macOS Privacy & Security
 - **[Canary](https://github.com/markksantos/Canary)** `private` — Monitors emails, domains, and passwords for data breaches and DNS changes
