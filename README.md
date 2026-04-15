@@ -13,7 +13,7 @@ Building tools and services that solve real problems.
 
 ---
 
-## 🚀 Public Featured Projects
+## 🚀 Projects
 
 ### 🎨 Creative & Media Tools
 - **[movie-picker](https://github.com/markksantos/movie-picker)** — Personalized movie and TV show recommendations powered by your taste profile
@@ -42,10 +42,13 @@ Building tools and services that solve real problems.
 - **[Grip](https://github.com/markksantos/Grip)** — Prevent accidental Cmd+Q — hold to quit, release to cancel
 - **[ChimeTime](https://github.com/markksantos/ChimeTime)** — Menu bar app that drops a time notification from the MacBook notch every hour
 - **[Anchor](https://github.com/markksantos/Anchor)** — Pin a live screen region as a floating always-on-top overlay
+- **[Unplug](https://github.com/markksantos/Unplug)** — Saves and restores window layouts when external displays connect/disconnect
+- **[Haze](https://github.com/markksantos/Haze)** — Automatically dims inactive monitors to reduce eye strain
 - **[Tempo](https://github.com/markksantos/Tempo)** — Adjusts macOS animation speed throughout the day
 - **[Afterburn](https://github.com/markksantos/Afterburn)** — Detects heavy CPU load and auto-pauses background processes to maximize performance
 - **[Carbon](https://github.com/markksantos/Carbon)** — Estimates real-time energy consumption and carbon footprint of every app
 - **[Drip](https://github.com/markksantos/Drip)** — Real-time hotspot data usage tracking with configurable limits and alerts
+- **[Catch](https://github.com/markksantos/Catch)** — Captures, logs, and lets you snooze every macOS notification
 - **[Shhh](https://github.com/markksantos/Shhh)** — One-click universal microphone mute from your menu bar
 - **[Aware](https://github.com/markksantos/Aware)** — Tracks active screen time with idle detection and daily totals
 - **[DesktopRecord](https://github.com/markksantos/DesktopRecord)** — Screen capture app with OCR search
@@ -54,8 +57,11 @@ Building tools and services that solve real problems.
 - **[ExtensionManager](https://github.com/markksantos/ExtensionManager)** — macOS extension browser/manager
 
 ### 🔒 macOS Privacy & Security
+- **[Canary](https://github.com/markksantos/Canary)** — Monitors emails, domains, and passwords for data breaches and DNS changes
 - **[Sentry](https://github.com/markksantos/Sentry)** — Monitors every outbound network connection from every app
 - **[Deadbolt](https://github.com/markksantos/Deadbolt)** — Locks individual apps behind Touch ID authentication
+- **[EchoType](https://github.com/markksantos/EchoType)** — Records everything you type with AES-256 encryption, full-text search, and Touch ID
+- **[Peeky](https://github.com/markksantos/Peeky)** — Privacy-focused monitoring tool
 
 ### 💑 Family & Personal
 - **[1on1](https://github.com/markksantos/1on1)** — Direct messaging for two — messages appear as large unmissable floating overlays
@@ -66,103 +72,6 @@ Building tools and services that solve real problems.
 - **[art_gallery](https://github.com/markksantos/art_gallery)** — Interactive terminal art gallery with 6 generative animations
 - **[gravity-sandbox](https://github.com/markksantos/gravity-sandbox)** — Interactive N-body gravity simulation with real-time physics
 - **[MiniMaxProject](https://github.com/markksantos/MiniMaxProject)** — AI content creation suite
-
----
-
-## 🔐 Private Projects
-
-### 🎨 Creative & Media Tools
-- **ai-youtube-thumbnail-generator** — AI-powered thumbnail generator for YouTube creators
-- **ThumbnailRank** — Analyze and rank YouTube thumbnail effectiveness
-
-### 🌐 Chrome Extensions
-- **google-chat-names** — Google Chat display name utility extension
-
-### 💼 Business & Productivity
-- **devlaunch** — Developer dashboard for managing local projects
-- **TaskFlow** — Task management and workflow automation
-- **onboardkit** — Client onboarding platform
-- **BriefBuilder** — Creative brief generator
-- **Freelance-Platform** — Full-stack freelance marketplace
-- **project-hub** — Local project dashboard that auto-discovers dev projects from your filesystem
-- **va-training-hub** — Virtual assistant training and onboarding platform
-
-### 🤖 AI & Automation
-- **mvp-agi-2** — Enhanced multi-agent AI with LangGraph
-- **Archive ClawdBot** — AI agent framework with persistent memory
-- **GeniusAIKeyboard** — AI-powered iOS keyboard extension using OpenAI GPT
-- **strategy-generator** — YouTube strategy document generator — scrapes channels, analyzes with Gemini, builds blueprints with Claude
-- **ai-yt-title-generator** — AI that reads YouTube transcripts and generates viral title ideas
-- **Nudge** — Records, transcribes, and saves searchable meeting notes entirely on-device
-
-### 💰 Finance & Legal
-- **basisguard** — S-Corp shareholder basis tracker with what-if modeling
-- **propertytaxcut** — Property tax reduction service
-- **RentNegotiator** — Rent negotiation platform
-- **LegalPair** — AI-powered legal document platform for couples
-- **rocket-money-exporter** — Export Rocket Money data as Markdown
-- **receiptlog** — Receipt tracking and organization
-
-### 🛠️ macOS Utilities
-- **CommandCenter** — Modular power-user utility replacing Alfred, Rectangle, iStat Menus, and Paste
-- **tilemac** — Powerful window tiling manager for macOS
-- **Flux** — Context-based workspace switcher with time tracking per project
-- **Fuse** — Consolidates multiple menu bar apps into a single organized dropdown
-- **MenuBarOverflow** — See every menu bar icon — even the ones hidden behind the notch
-- **Unplug** — Saves and restores window layouts when external displays connect/disconnect
-- **Haze** — Automatically dims inactive monitors to reduce eye strain
-- **Pinch** — Batch file compressor for images, videos, and PDFs with Finder integration
-- **Catch** — Captures, logs, and lets you snooze every macOS notification
-- **QuickLookPro** — Enhanced QuickLook previews for macOS
-- **dottoggle** — Finder extension to toggle hidden files
-- **ExtensionTracker** — System extension monitoring tool
-- **TextBold** — Rich text editor for macOS
-
-### 🔒 macOS Privacy & Security
-- **Canary** — Monitors emails, domains, and passwords for data breaches and DNS changes
-- **EchoType** — Records everything you type with AES-256 encryption, full-text search, and Touch ID
-
-### 💑 Family & Personal
-- **babyhq** — Baby tracking and management app
-- **babyhq-ios-app** — iOS companion app
-- **coupleshield** — Legal document generator for couples
-- **Peeky** — Privacy-focused monitoring tool
-- **Picmal** — Photo management application
-
-### 🌐 Web & Portfolio
-- **markksantos.com** — Personal portfolio website
-- **markstudioshub** — Mark Studios central hub with client/editor/admin portals
-- **mark-studios-landing-page** — Mark Studios landing page
-- **markstudios-new-website-made-by-claude** — Service showcase website
-- **devlaunch-site** — DevLaunch marketing site
-- **nosleeplab** — NoSleepLab — portfolio site for the macOS utility studio
-- **Blog** — Minimal personal blog
-
-### 🎯 Freelance & Fiverr Tools
-- **tampermonkey-scripts** — Fiverr automation suite with 10+ userscripts for sellers
-- **mark-studios-intake** — Multi-step client intake form with instant quote calculator
-- **mark-studios-va-interview** — AI-powered interview chatbot for VA candidate screening
-- **mark-studios-sop-quiz** — Password-protected SOP training quiz for inbox managers
-- **mark-studios-sops** — Internal SOPs & playbooks for inbox management and client communication
-- **mark-studios-extension** — Chrome extension for Mark Studios workflow
-- **HTML-Editor-Contract-Welcome-Docs** — Editor contracts, welcome documents, and onboarding resources
-- **Fiverr AI Assistant** — AI-powered Fiverr workflow assistant
-- **Mark Studios Extension 2023** — Chrome extension for Fiverr sellers
-- **markstudios-fiverr-tampermonkey-scripts** — Tampermonkey automation scripts
-
-### 🌍 Social & Communication
-- **omegla.com** — Random video chat with smart matching, friends, and group rooms
-
-### 🔬 Experiments & Prototypes
-- **apex-os** — Experimental operating system interface
-- **apex-sovereignty-command** — Wealth management command center
-- **apex-sovereign-pathway-1** — Full-stack boilerplate
-- **sovereign-blueprint-matrix** — Strategic planning framework
-- **new-app** — Experimental application
-- **todo-list-app** — Simple task management
-- **Fala** — Communication experiment
-- **G-sheet_appsscript** — Google Sheets automation scripts
-- **WorkID** — Identity management system
 
 ---
 
