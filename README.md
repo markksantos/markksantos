@@ -13,7 +13,7 @@ Building tools and services that solve real problems.
 
 ---
 
-## 🚀 Public Projects
+## 🚀 Public Featured Projects
 
 ### 🎨 Creative & Media Tools
 - **[movie-picker](https://github.com/markksantos/movie-picker)** — Personalized movie and TV show recommendations powered by your taste profile
