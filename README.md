@@ -25,6 +25,7 @@ Building tools and services that solve real problems.
 - **[SwipeClean](https://github.com/markksantos/SwipeClean)** — Tinder for your camera roll — swipe right to keep, left to delete
 
 ### 🌐 Chrome Extensions
+- **[VidMark](https://github.com/markksantos/VidMark)** — Frame.io-style timestamped video review for Google Drive — clickable timeline markers, sort, and FCPXML/EDL export
 - **[tab-out](https://github.com/markksantos/tab-out)** — Custom new-tab dashboard for Chrome
 
 ### 💼 Business & Productivity
