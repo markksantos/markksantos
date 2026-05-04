@@ -54,7 +54,7 @@ Building tools and services that solve real problems.
 - 🔌  **[Unplug](https://github.com/markksantos/Unplug)** — Saves and restores window layouts when external displays connect/disconnect
 - 🖼️  **[upscalr](https://github.com/markksantos/upscalr)** — AI image upscaling tool for macOS using RealESRGAN
 - 🗄️  **[VaultApp](https://github.com/markksantos/VaultApp)** — Encrypted file vault with Touch ID
-- 🎥  **[VidMark](https://github.com/markksantos/VidMark)** — Frame.io-style timestamped video review for Google Drive — clickable timeline markers, sort, and FCPXML/EDL export
+- 🎥  **[VidMark](https://github.com/markksantos/VidMark)** — Chrome extension for Frame.io-style timestamped video review on Google Drive
 - 💪  **[Vitality](https://github.com/markksantos/Vitality)** — Health and wellness tracker
 - 🐕  **[watchdog](https://github.com/markksantos/watchdog)** — Webcam monitoring app with motion detection
 - 🪟  **[WindowTiler](https://github.com/markksantos/WindowTiler)** — Auto-tile any app's windows into a perfect grid layout with one hotkey
@@ -62,6 +62,8 @@ Building tools and services that solve real problems.
 ---
 
 ## 💻 Tech Stack
+
+> Most of the code in these projects is written with AI — primarily **Claude Code**, with **Codex** as a second pair of eyes. I architect, direct, and review; the AI does most of the typing.
 
 **Languages:** Swift, TypeScript, JavaScript, Python, Go
 
@@ -77,7 +79,7 @@ Building tools and services that solve real problems.
 
 **Databases:** PostgreSQL, SQLite, ChromaDB, Drizzle ORM
 
-**Tools:** Vite, XcodeGen, Docker, FFmpeg, Tesseract
+**Tools:** Claude Code, Codex, Vite, XcodeGen, Docker, FFmpeg, Tesseract
 
 ---
 
