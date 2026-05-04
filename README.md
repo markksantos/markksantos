@@ -28,11 +28,13 @@ Building tools and services that solve real problems.
 - 🕰️  **[ChimeTime](https://github.com/markksantos/ChimeTime)** — Menu bar app that drops a time notification from the MacBook notch every hour
 - 📋  **[ClipShelf](https://github.com/markksantos/ClipShelf)** — Instant clipboard history at your cursor — press ⌘⌥V, pick an item, paste
 - 🔍  **[codesearch](https://github.com/markksantos/codesearch)** — Full-stack code search tool with React frontend and Express backend
+- 🎛️  **[CommandCenter](https://github.com/markksantos/CommandCenter)** — Modular macOS power-user utility with configurable hotkeys
 - 🔒  **[Deadbolt](https://github.com/markksantos/Deadbolt)** — Locks individual apps behind Touch ID authentication
 - 📹  **[DesktopRecord](https://github.com/markksantos/DesktopRecord)** — Screen capture app with OCR search
 - 💧  **[Drip](https://github.com/markksantos/Drip)** — Real-time hotspot data usage tracking with configurable limits and alerts
 - ⌨️  **[EchoType](https://github.com/markksantos/EchoType)** — Records everything you type with AES-256 encryption, full-text search, and Touch ID
 - 🧩  **[ExtensionManager](https://github.com/markksantos/ExtensionManager)** — macOS extension browser/manager
+- 🔀  **[Flux](https://github.com/markksantos/Flux)** — Project workspace switcher for macOS
 - 🎞️  **[FootageCalculator](https://github.com/markksantos/FootageCalculator)** — Scan a folder and instantly total your video footage duration
 - 📊  **[GitPulse](https://github.com/markksantos/GitPulse)** — Menu bar app that monitors Git repos with status, branches, and quick actions
 - 🌌  **[gravity-sandbox](https://github.com/markksantos/gravity-sandbox)** — Interactive N-body gravity simulation with real-time physics
@@ -40,6 +42,7 @@ Building tools and services that solve real problems.
 - 🌫️  **[Haze](https://github.com/markksantos/Haze)** — Automatically dims inactive monitors to reduce eye strain
 - ✂️  **[HookCut](https://github.com/markksantos/HookCut)** — AI-powered podcast/video highlight finder that exports NLE-ready timelines
 - 🖥️  **[macos-null](https://github.com/markksantos/macos-null)** — Faithful macOS Sequoia desktop clone in a single HTML file
+- 🧭  **[MenuBarOverflow](https://github.com/markksantos/MenuBarOverflow)** — See every menu bar icon — even the ones hidden behind the notch
 - 🎭  **[MiniMaxProject](https://github.com/markksantos/MiniMaxProject)** — AI content creation suite
 - 🎬  **[movie-picker](https://github.com/markksantos/movie-picker)** — Personalized movie and TV show recommendations powered by your taste profile
 - 🤖  **[mvp-agi](https://github.com/markksantos/mvp-agi)** — Multi-agent AI reasoning system with Planner/Executor/Critic
