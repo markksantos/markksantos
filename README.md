@@ -47,6 +47,7 @@ Building tools and services that solve real problems.
 - 🎬  **[movie-picker](https://github.com/markksantos/movie-picker)** — Personalized movie and TV show recommendations powered by your taste profile
 - 🤖  **[mvp-agi](https://github.com/markksantos/mvp-agi)** — Multi-agent AI reasoning system with Planner/Executor/Critic
 - 👀  **[Peeky](https://github.com/markksantos/Peeky)** — Privacy-focused monitoring tool
+- 📸  **[Polaroid](https://github.com/markksantos/Polaroid)** — Mac-native screenshot-to-Polaroid converter with develop animation and handwritten captions
 - 📝  **[proofframe](https://github.com/markksantos/proofframe)** — OCR-powered spell checker for burned-in video/image text
 - 🛡️  **[Sentry](https://github.com/markksantos/Sentry)** — Monitors every outbound network connection from every app
 - 🤫  **[Shhh](https://github.com/markksantos/Shhh)** — One-click universal microphone mute from your menu bar
