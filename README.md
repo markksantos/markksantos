@@ -52,6 +52,7 @@ Building tools and services that solve real problems.
 - 📝  **[proofframe](https://github.com/markksantos/proofframe)** — OCR-powered spell checker for burned-in video/image text
 - 🛡️  **[Sentry](https://github.com/markksantos/Sentry)** — Monitors every outbound network connection from every app
 - 🤫  **[Shhh](https://github.com/markksantos/Shhh)** — One-click universal microphone mute from your menu bar
+- 💬  **[SocializeAI](https://github.com/markksantos/SocializeAI)** — Local-first macOS messaging assistant for iMessage threads, relationship-aware AI replies, and guarded autopilot
 - 🎚️  **[sounddeck](https://github.com/markksantos/sounddeck)** — Virtual audio mixer and soundboard for macOS
 - 📸  **[SwipeClean](https://github.com/markksantos/SwipeClean)** — Tinder for your camera roll — swipe right to keep, left to delete
 - 🌐  **[tab-out](https://github.com/markksantos/tab-out)** — Custom new-tab dashboard for Chrome
