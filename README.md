@@ -64,6 +64,7 @@ Building tools and services that solve real problems.
 - 💪  **[Vitality](https://github.com/markksantos/Vitality)** — Health and wellness tracker
 - 🐕  **[watchdog](https://github.com/markksantos/watchdog)** — Webcam monitoring app with motion detection
 - 🪟  **[WindowTiler](https://github.com/markksantos/WindowTiler)** — Auto-tile any app's windows into a perfect grid layout with one hotkey
+- ⌫  **[WordEraser](https://github.com/markksantos/WordEraser)** — Terminal-style word & line deletion in every macOS app — press Ctrl+W to delete a word, just like in your shell
 
 ---
 
