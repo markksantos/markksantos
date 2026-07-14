@@ -36,6 +36,7 @@ Building tools and services that solve real problems.
 - 🧩  **[ExtensionManager](https://github.com/markksantos/ExtensionManager)** — macOS extension browser/manager
 - 🔀  **[Flux](https://github.com/markksantos/Flux)** — Project workspace switcher for macOS
 - 🎞️  **[FootageCalculator](https://github.com/markksantos/FootageCalculator)** — Scan a folder and instantly total your video footage duration
+- 👻  **[Ghostmark](https://github.com/markksantos/Ghostmark)** — Persistent, fully customizable watermark tiled live on your desktop for recording, calls, and teaching
 - 📊  **[GitPulse](https://github.com/markksantos/GitPulse)** — Menu bar app that monitors Git repos with status, branches, and quick actions
 - 🌠  **[generative-sketch-gallery](https://github.com/markksantos/generative-sketch-gallery)** — Browser gallery of 40 animated mathematical canvas sketches
 - 🌌  **[gravity-sandbox](https://github.com/markksantos/gravity-sandbox)** — Interactive N-body gravity simulation with real-time physics
