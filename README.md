@@ -33,6 +33,7 @@ Building tools and services that solve real problems.
 - 📹  **[DesktopRecord](https://github.com/markksantos/DesktopRecord)** — Screen capture app with OCR search
 - 💧  **[Drip](https://github.com/markksantos/Drip)** — Real-time hotspot data usage tracking with configurable limits and alerts
 - ⌨️  **[EchoType](https://github.com/markksantos/EchoType)** — Records everything you type with AES-256 encryption, full-text search, and Touch ID
+- ♾️  **[endless-scroll](https://github.com/markksantos/endless-scroll)** — Infinite generative artwork in a single SVG file — five parallax layers scrolling forever, seamlessly
 - 🧩  **[ExtensionManager](https://github.com/markksantos/ExtensionManager)** — macOS extension browser/manager
 - 🔀  **[Flux](https://github.com/markksantos/Flux)** — Project workspace switcher for macOS
 - 🎞️  **[FootageCalculator](https://github.com/markksantos/FootageCalculator)** — Scan a folder and instantly total your video footage duration
