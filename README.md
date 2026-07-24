@@ -44,6 +44,7 @@ Building tools and services that solve real problems.
 - 🌫️  **[Haze](https://github.com/markksantos/Haze)** — Automatically dims inactive monitors to reduce eye strain
 - ✂️  **[HookCut](https://github.com/markksantos/HookCut)** — AI-powered podcast/video highlight finder that exports NLE-ready timelines
 - 🖥️  **[macos-null](https://github.com/markksantos/macos-null)** — Faithful macOS Sequoia desktop clone in a single HTML file
+- 🪐  **[mars-colony](https://github.com/markksantos/mars-colony)** — Interactive 3D Mars colonization simulator — 111 years of terraforming rendered entirely in procedural shaders
 - 🧭  **[MenuBarOverflow](https://github.com/markksantos/MenuBarOverflow)** — See every menu bar icon — even the ones hidden behind the notch
 - 🎭  **[MiniMaxProject](https://github.com/markksantos/MiniMaxProject)** — AI content creation suite
 - 🎬  **[movie-picker](https://github.com/markksantos/movie-picker)** — Personalized movie and TV show recommendations powered by your taste profile
