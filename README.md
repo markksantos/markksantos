@@ -30,6 +30,7 @@ Building tools and services that solve real problems.
 - 🔍  **[codesearch](https://github.com/markksantos/codesearch)** — Full-stack code search tool with React frontend and Express backend
 - 🎛️  **[CommandCenter](https://github.com/markksantos/CommandCenter)** — Modular macOS power-user utility with configurable hotkeys
 - 🐔  **[crossyroad](https://github.com/markksantos/crossyroad)** — Endless hopper in Three.js — roads, rivers and railways generated forever, a global top-ten board, and not one texture, model or audio file
+- 🐓  **[crossy-royale](https://github.com/markksantos/crossy-royale)** — Crossy Road as a battle royale — thirty chickens on one start line, a fog wall eating the map from behind, and a safe zone that keeps closing
 - 🔒  **[Deadbolt](https://github.com/markksantos/Deadbolt)** — Locks individual apps behind Touch ID authentication
 - 📹  **[DesktopRecord](https://github.com/markksantos/DesktopRecord)** — Screen capture app with OCR search
 - 💧  **[Drip](https://github.com/markksantos/Drip)** — Real-time hotspot data usage tracking with configurable limits and alerts
