@@ -47,6 +47,7 @@ Building tools and services that solve real problems.
 - 🖥️  **[macos-null](https://github.com/markksantos/macos-null)** — Faithful macOS Sequoia desktop clone in a single HTML file
 - 🪐  **[mars-colony](https://github.com/markksantos/mars-colony)** — Interactive 3D Mars colonization simulator — 111 years of terraforming rendered entirely in procedural shaders
 - 🧭  **[MenuBarOverflow](https://github.com/markksantos/MenuBarOverflow)** — See every menu bar icon — even the ones hidden behind the notch
+- 📟  **[meridian7](https://github.com/markksantos/meridian7)** — A fictional 1989 workstation OS that boots in your browser — eleven programs, six colour schemes, every sound synthesized
 - 🎭  **[MiniMaxProject](https://github.com/markksantos/MiniMaxProject)** — AI content creation suite
 - 🎬  **[movie-picker](https://github.com/markksantos/movie-picker)** — Personalized movie and TV show recommendations powered by your taste profile
 - 🤖  **[mvp-agi](https://github.com/markksantos/mvp-agi)** — Multi-agent AI reasoning system with Planner/Executor/Critic
