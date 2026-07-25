@@ -72,6 +72,7 @@ Building tools and services that solve real problems.
 - 🐕  **[watchdog](https://github.com/markksantos/watchdog)** — Webcam monitoring app with motion detection
 - 🪟  **[WindowTiler](https://github.com/markksantos/WindowTiler)** — Auto-tile any app's windows into a perfect grid layout with one hotkey
 - ⌫  **[WordEraser](https://github.com/markksantos/WordEraser)** — Terminal-style word & line deletion in every macOS app — press Ctrl+W to delete a word, just like in your shell
+- ⚛️  **[zero-point](https://github.com/markksantos/zero-point)** — Interactive Three.js tour of the quantum vacuum — vacuum fluctuations, the irreducible ½ħω, the Casimir effect, and the 10¹²⁰ cosmological constant problem
 
 ---
 
