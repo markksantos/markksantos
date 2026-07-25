@@ -29,6 +29,7 @@ Building tools and services that solve real problems.
 - 📋  **[ClipShelf](https://github.com/markksantos/ClipShelf)** — Instant clipboard history at your cursor — press ⌘⌥V, pick an item, paste
 - 🔍  **[codesearch](https://github.com/markksantos/codesearch)** — Full-stack code search tool with React frontend and Express backend
 - 🎛️  **[CommandCenter](https://github.com/markksantos/CommandCenter)** — Modular macOS power-user utility with configurable hotkeys
+- 🐔  **[crossyroad](https://github.com/markksantos/crossyroad)** — Endless hopper in Three.js — roads, rivers and railways generated forever, a global top-ten board, and not one texture, model or audio file
 - 🔒  **[Deadbolt](https://github.com/markksantos/Deadbolt)** — Locks individual apps behind Touch ID authentication
 - 📹  **[DesktopRecord](https://github.com/markksantos/DesktopRecord)** — Screen capture app with OCR search
 - 💧  **[Drip](https://github.com/markksantos/Drip)** — Real-time hotspot data usage tracking with configurable limits and alerts
