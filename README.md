@@ -53,6 +53,7 @@ Building tools and services that solve real problems.
 - 🎭  **[MiniMaxProject](https://github.com/markksantos/MiniMaxProject)** — AI content creation suite
 - 🎬  **[movie-picker](https://github.com/markksantos/movie-picker)** — Personalized movie and TV show recommendations powered by your taste profile
 - 🤖  **[mvp-agi](https://github.com/markksantos/mvp-agi)** — Multi-agent AI reasoning system with Planner/Executor/Critic
+- ✴️  **[once](https://github.com/markksantos/once)** — Three-minute generative film in six movements — a point becomes a lattice, a fluid, a living colony and a strange attractor, then returns to being a point, with an original synthesized score and not one frame of footage
 - 👀  **[Peeky](https://github.com/markksantos/Peeky)** — Privacy-focused monitoring tool
 - 🎸  **[plectrum](https://github.com/markksantos/plectrum)** — Browser MIDI editor for plucked strings — thirteen instruments across nine cultures, every note synthesized as a physical string model
 - 📸  **[Polaroid](https://github.com/markksantos/Polaroid)** — Mac-native screenshot-to-Polaroid converter with develop animation and handwritten captions
