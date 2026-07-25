@@ -29,6 +29,7 @@ Building tools and services that solve real problems.
 - 📋  **[ClipShelf](https://github.com/markksantos/ClipShelf)** — Instant clipboard history at your cursor — press ⌘⌥V, pick an item, paste
 - 🔍  **[codesearch](https://github.com/markksantos/codesearch)** — Full-stack code search tool with React frontend and Express backend
 - 🎛️  **[CommandCenter](https://github.com/markksantos/CommandCenter)** — Modular macOS power-user utility with configurable hotkeys
+- 📜  **[cordel](https://github.com/markksantos/cordel)** — Hearthstone's classic rules with a new 66-card set cut from Brazilian folklore, and a shared omen that flips every turn and rewrites it
 - 🐔  **[crossyroad](https://github.com/markksantos/crossyroad)** — Endless hopper in Three.js — roads, rivers and railways generated forever, a global top-ten board, and not one texture, model or audio file
 - 🐓  **[crossy-royale](https://github.com/markksantos/crossy-royale)** — Crossy Road as a battle royale — thirty chickens on one start line, a fog wall eating the map from behind, and a safe zone that keeps closing
 - 🔒  **[Deadbolt](https://github.com/markksantos/Deadbolt)** — Locks individual apps behind Touch ID authentication
