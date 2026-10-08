@@ -4,9 +4,11 @@
 
 **Full-Stack Developer · Entrepreneur · Creator**
 
+Founder of [Mark Studios](https://www.markstudios.com): video editing, websites, apps and AI for businesses.
 Building tools and services that solve real problems.
 
 [![Website](https://img.shields.io/badge/Website-markstudios.com-4A90E2?style=for-the-badge)](https://www.markstudios.com)
+[![About](https://img.shields.io/badge/About-markksantos.com-111827?style=for-the-badge)](https://markksantos.com)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mark@markstudios.com)
 
 </div>
@@ -104,6 +106,8 @@ Building tools and services that solve real problems.
 ## 📫 Get In Touch
 
 - 🌐 Website: [markstudios.com](https://www.markstudios.com)
+- 👤 About me: [markksantos.com](https://markksantos.com)
+- 🎬 Hire Mark Studios: [get a price online](https://start.markstudios.com)
 - 💼 LinkedIn: [linkedin.com](https://linkedin.com/in/markksantos)
 - 📧 Email: [mark@markstudios.com](mailto:mark@markstudios.com)
 
