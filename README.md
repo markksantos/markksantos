@@ -15,6 +15,14 @@ Building tools and services that solve real problems.
 
 ---
 
+## 📊 Open data (CC BY 4.0)
+
+Datasets behind the [Mark Studios research pages](https://www.markstudios.com/research), free to reuse with a link:
+
+- 🔤  **[video-caption-reading-speed](https://github.com/markksantos/video-caption-reading-speed)** — every caption in 387 public videos measured against Netflix, BBC and DCMP reading-speed limits ([study](https://www.markstudios.com/research/caption-reading-speed-study))
+- 📦  **[video-editing-outsourcing-benchmarks](https://github.com/markksantos/video-editing-outsourcing-benchmarks)** — turnaround, repeat-client and order-mix benchmarks from 7,056 outsourced video editing orders, aggregates only ([page](https://www.markstudios.com/research/video-editing-outsourcing-benchmarks))
+- 💵  **[video-editing-service-prices](https://github.com/markksantos/video-editing-service-prices)** — published prices of 35 video editing services, each read on the provider's own page with a date ([page](https://www.markstudios.com/research/video-editing-service-prices))
+
 ## 🚀 Projects
 
 - ✉️  **[1on1](https://github.com/markksantos/1on1)** — Direct messaging for two — messages appear as large unmissable floating overlays
